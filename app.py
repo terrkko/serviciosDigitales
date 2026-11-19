@@ -11,6 +11,8 @@ SERVICIOS = [
  {"slug":"numero-seguridad-social","nombre":"Número de Seguridad Social","icono":"🏥","descripcion":"Orientación para localizar o consultar tu NSS a través de los servicios oficiales del IMSS."},
  {"slug":"constancia-no-inhabilitacion","nombre":"Constancia de No Inhabilitación","icono":"💼","descripcion":"Apoyo para identificar requisitos y gestionar solicitudes de constancias laborales según la autoridad competente."},
  {"slug":"recibos-cfe","nombre":"Consulta de recibos CFE","icono":"💡","descripcion":"Asistencia para consultar y descargar recibos de energía eléctrica mediante canales autorizados."},
+ {"slug":"redaccion-oficios-solicitudes","nombre":"Redacción de oficios y solicitudes","icono":"📝","descripcion":"Elaboramos oficios, solicitudes, cartas formales y escritos dirigidos a instituciones, escuelas, empresas y particulares."},
+ {"slug":"elaboracion-documentos","nombre":"Elaboración de documentos","icono":"📑","descripcion":"Redacción, captura, edición y formato de documentos personales, administrativos y comerciales, según tus necesidades."},
  {"slug":"contratos-compraventa-terrenos","nombre":"Contratos de compraventa","icono":"✍️","descripcion":"Apoyo en la preparación de contratos de compraventa de terrenos y orientación sobre su revisión legal."}
 ]
 
