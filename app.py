@@ -1,4 +1,4 @@
-from flask import Flask, render_template, Response, abort
+from flask import Flask, render_template, Response, abort, send_from_directory
 from datetime import date
 
 app = Flask(__name__)
@@ -28,6 +28,10 @@ def servicio(slug):
 @app.route("/privacidad")
 def privacidad():
     return render_template("privacidad.html", base=BASE)
+
+@app.route("/googlea08e544e8054840b.html")
+def google_verification():
+    return send_from_directory("verification", "googlea08e544e8054840b.html", mimetype="text/html")
 
 @app.route("/robots.txt")
 def robots():
